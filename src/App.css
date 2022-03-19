@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.person{
+  background-color: cyan;
+  color: #282c34;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 30px;
+  width: 30%;
+  border: 3px solid black;
+}
